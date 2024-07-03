@@ -3,6 +3,8 @@
 
 ### Check out my site!; https://tom-who.github.io/
 
+### About me:
+
 - 🔭 I’m currently working on a recon script, to help perform information gathering on real world targets.
 - 🌱 I’m currently learning everything!.
 - 💬 Ask me about CTF's, web development and cyber security!
@@ -11,6 +13,19 @@
 - ⚡ Fun fact: I love going on hikes 🎒🏕️📸
 - 🥅 2024 Goals: Do more on github, and learn more coding languages.
 
+---
+### My story
+
+- I started learning code at around 10 - 11 years olds in minecraft with command blocks and making my own modifications to my world.
+- I made my first python script at 12, and started learning web development at 13 along with C++
+- I started learning cyber security at 14 on TryHackMe doing the Advent Of Cyber for that year and instantly fell in love with the topic.
+- Fast forward about a year and a half and now I'm roughly top 0.1% on TryHackMe globally and about rank 35 in my country of all time.
+- Ever since then my main hobby has been trying to learn as much as possible about hacking.
+- For the past 6 months as of writing this I have also engaged in alot of bug hunting mainly on VPD's, finding XSS vulnerabilities, open redirect and authentication bypasses
+- Nowadays I try to make helpful content on medium and github trying to teach cybersecurity to beginners, as I know that I would have appreciated a mentor when I first started learning.
+
+ <img src="https://tryhackme-badges.s3.amazonaws.com/tom.sh.png" alt="THM profile"> 
+ 
 ---
 
 ### Languages and tools:
