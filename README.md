@@ -1,5 +1,4 @@
-## Hey there, I'm Tom, also known as tom.sh/tom.html 👋
-
+## Hey there, I'm Tom!
 
 ### <a href="https://tom-who.github.io/">My Website</a>
 
