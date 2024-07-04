@@ -1,7 +1,7 @@
 ## Hey there, I'm Tom, also known as tom.sh/tom.html 👋
 
 
-### Check out my site!; https://tom-who.github.io/
+### <a href="https://tom-who.github.io/">My Website</a>
 
 ### About me:
 
@@ -12,6 +12,8 @@
 - 😄 Pronouns: he/him | Age: 16
 - ⚡ Fun fact: I love going on hikes 🎒🏕️📸
 - 🥅 2024 Goals: Do more on github, and learn more coding languages.
+
+ <img src="https://tryhackme-badges.s3.amazonaws.com/tom.sh.png" alt="THM profile"> 
 
 ---
 ### My story
@@ -24,7 +26,6 @@
 - For the past 6 months as of writing this I have also engaged in alot of bug hunting mainly on VPD's, finding XSS vulnerabilities, open redirect and authentication bypasses
 - Nowadays I try to make helpful content on medium and github trying to teach cybersecurity to beginners, as I know that I would have appreciated a mentor when I first started learning.
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/tom.sh.png" alt="THM profile"> 
  
 ---
 
