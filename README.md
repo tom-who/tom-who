@@ -1,11 +1,9 @@
 ## Hey there, I'm Tom!
 
-### <a href="https://tom-who.github.io/">My Website</a>
-
 ### About me:
 
 - 🔭 I’m currently working on a recon script, to help perform information gathering on real world targets.
-- 🌱 I’m currently learning everything!.
+- 🌱 I’m currently learning as much as I can.
 - 💬 Ask me about CTF's, web development and cyber security!
 - 📫 How to reach me: tomhtml@bugcrowdninja.com
 - 😄 Pronouns: he/him | Age: 16
