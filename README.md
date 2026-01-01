@@ -2,13 +2,13 @@
 
 ### About me:
 
-- 🔭 I’m currently working on a recon script, to help perform information gathering on real world targets.
-- 🌱 I’m currently learning as much as I can.
+- 🔭 I’m currently working on a learning c. I plan to build a TCP messenger, HTTP web server and potentially try to encrypt these using RSA all in C in the future!.
+- 🌱 I’m currently learning C.
 - 💬 Ask me about CTF's, web development and cyber security!
 - 📫 How to reach me: tomhtml@bugcrowdninja.com
-- 😄 Pronouns: he/him | Age: 16
-- ⚡ Fun fact: I love going on hikes 🎒🏕️📸
-- 🥅 2024 Goals: Do more on github, and learn more coding languages.
+- 😄 Pronouns: he/him | Age: 17
+- ⚡ Fun fact: I love nature, travelling and anything STEM
+- 🥅 2026 Goals: Program all the afforementioned projects and put them on github and attend college!
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/tom.sh.png" alt="THM profile"> 
 
