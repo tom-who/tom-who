@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 🔭 I’m currently working on a learning c. I plan to build a TCP messenger, HTTP web server and potentially try to encrypt these using RSA all in C in the future!.
+- 🔭 I’m currently working on a 2.4GHz jammer.
 - 🌱 I’m currently learning C.
 - 💬 Ask me about CTF's, web development and cyber security!
 - 📫 How to reach me: tomhtml@bugcrowdninja.com
