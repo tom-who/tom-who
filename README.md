@@ -18,11 +18,10 @@
 - I started learning code at around 10 - 11 years olds in minecraft with command blocks and making my own modifications to my world.
 - I made my first python script at 12, and started learning web development at 13 along with C++
 - I started learning cyber security at 14 on TryHackMe doing the Advent Of Cyber for that year and instantly fell in love with the topic.
-- Fast forward about a year and a half and now I'm roughly top 0.1% on TryHackMe globally and about rank 22 in my country of all time.
-- Ever since then my main hobby has been trying to learn as much as possible about hacking.
-- For the past 6 months as of writing this I have also engaged in alot of bug hunting mainly on VPD's, finding XSS vulnerabilities, open redirect and authentication bypasses
-- Nowadays I try to make helpful content on medium and github trying to teach cybersecurity to beginners, as I know that I would have appreciated a mentor when I first started learning.
-
+- When I was 15 I got a lot more into TryHackMe, doing a lot of CTFs over the summer of that year (2023) and by the end of the year I was top 1% on tryhackme.
+- By the time 2024 rolled around I set my sights onto bug hunting, where I learned so much valuable lessons, especially real world engagement knowledge
+- I found cross site scripting (XSS), authentication bypasses, open redirects and a few other small bugs. Althought I did bug hunting for around 8 months and had to quit due to school, I learned a lot.
+- Now im aiming to study cybersecurity in college. Althought I have exams coming up I plan to learn C, C++, work on my jammer, and learn more about lower level exploitations and computer science. Thanks for reading!
  
 ---
 
