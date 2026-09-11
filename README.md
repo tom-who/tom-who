@@ -6,9 +6,8 @@
 - 🌱 I’m currently learning C.
 - 💬 Ask me about CTF's, web development and cyber security!
 - 📫 How to reach me: tomhtml@bugcrowdninja.com
-- Pronouns: he/him | Age: 17
+- Pronouns: he/him | Age: 18
 - Fun fact: I love nature, travelling and anything STEM
-- 2026 Goals: Program all the afforementioned projects and put them on github and attend college!
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/tom.sh.png" alt="THM profile"> 
 
