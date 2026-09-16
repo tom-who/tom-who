@@ -21,8 +21,10 @@
 - By the time 2024 rolled around I set my sights onto bug hunting, where I learned so much valuable lessons, especially real world engagement knowledge
 - I found cross site scripting (XSS), authentication bypasses, open redirects and a few other small bugs. Althought I did bug hunting for around 8 months and had to quit due to school, I learned a lot.
 - Now im aiming to study cybersecurity in college. Althought I have exams coming up I plan to learn C, C++, work on my jammer, and learn more about lower level exploitations and computer science. Thanks for reading!
- 
+
 ---
+
+POCTF:1N02HHA1
 
 <!-- ### Languages and tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
