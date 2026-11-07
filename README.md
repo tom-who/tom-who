@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**tom-who/tom-who** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+- I have been learning cyber for 3 years.
+- Studying cyber in college
+- Ask me about CTFs, cyber security, math.
+- 📫 tomhtml@bugcrowdninja.com
 
-Here are some ideas to get you started:
+### defunded THM stats before I deleted my account
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://tryhackme-badges.s3.amazonaws.com/tom.sh.png" alt="THM profile"> 
+
+### AI
+
+Over the years I never used once AI to hack for me, or to develop any software as I value the learning process that comes with struggling.
+
+Thanks for reading.
+
+---
