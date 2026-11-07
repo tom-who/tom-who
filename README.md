@@ -5,7 +5,7 @@
 - Ask me about CTFs, cyber security, math.
 - 📫 tomhtml@bugcrowdninja.com
 
-### THM stats before I deleted my account
+### Official THM stats before I deleted my account
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/tom.sh.png" alt="THM profile"> 
 
