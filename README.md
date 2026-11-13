@@ -11,7 +11,7 @@
 
 ### AI
 
-Over the years I never used once AI to hack for me, or to develop any software as I value the learning process that comes with struggling.
+Over the years I never once used AI to hack for me, or to develop any software as I value the learning process that comes with struggling.
 
 Thanks for reading.
 
